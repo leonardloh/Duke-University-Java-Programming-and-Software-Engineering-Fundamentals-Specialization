@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="core">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/core.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/gluegen-rt-natives-linux-amd64.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/gluegen-rt-natives-linux-armv6hf.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/gluegen-rt-natives-linux-i586.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/gluegen-rt-natives-macosx-universal.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/gluegen-rt-natives-windows-i586.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/gluegen-rt.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/jogl-all-natives-linux-amd64.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/jogl-all-natives-linux-armv6hf.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/jogl-all-natives-linux-i586.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/jogl-all-natives-macosx-universal.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/jogl-all.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/json4processing.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/libTUIO.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/log4j-1.2.15.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/sqlite-jdbc-3.7.2.jar!/" />
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/unfolding.0.9.7-uscd.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/USCDLib/sqlite-jdbc-3.7.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
